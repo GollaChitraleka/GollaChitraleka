@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I am Chitraleka Golla👋</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | C | Python</h3>
-# 💫 About Me:
-🧠 I’m currently working on **AI projects and full-stack web apps**  <br>🔭 Worked as Intern at Turtil<br>🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon<br>💬 Ask me about Python, Machine Learning, OOPS<br>🌱 I’m currently learning ReactJS and Golang<br>📫 Reach me at chitralekagolla2356@gmail.com
+💫 About Me:
+🧠 I’m currently working on ##AI projects and full-stack web apps##  <br>🔭 Worked as Intern at Turtil<br>🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon<br>💬 Ask me about Python, Machine Learning, OOPS<br>🌱 I’m currently learning ReactJS and Golang<br>📫 Reach me at chitralekagolla2356@gmail.com
 
 
 ## 🌐 Socials:
