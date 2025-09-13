@@ -10,6 +10,12 @@
 
 🧠 I’m currently working on **AI projects and full-stack web apps**  <br>🔭 Worked as Intern at Turtil<br>🏆 Winner @ SRU Idea Conclave, Finalist @ Smart India Hackathon<br>💬 Ask me about Python, Machine Learning, OOPS<br>🌱 I’m currently learning ReactJS and NodeJS<br>📫 Reach me at chitralekagolla2356@gmail.com
 
+## 💼 Featured Projects
+🔹 [Streak Scoring Microservice](https://github.com/GollaChitraleka/Streak-Scoring-Microservice): Microservice to track user streaks for actions like login, quiz, and help posts, with AI validation
+🔹 [Fact Finder AI](https://github.com/GollaChitraleka/FakeNews_Detection): Fake news detection using NLP and ML with 92% accuracy  
+🔹 [Student Result System](https://github.com/GollaChitraleka/Student-Result-Management-System): Automated 500+ records with Python & MySQL  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chitraleka-golla-4751a427b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chitralekagolla2356@gmail.com) 
