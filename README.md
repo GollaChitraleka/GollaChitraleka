@@ -15,7 +15,7 @@
 🔹 [Fact Finder AI](https://github.com/GollaChitraleka/FakeNews_Detection): Fake news detection using NLP and ML with 92% accuracy  
 🔹 [Student Result System](https://github.com/GollaChitraleka/Student-Result-Management-System): Automated 500+ records with Python & MySQL  
 
----
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chitraleka-golla-4751a427b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chitralekagolla2356@gmail.com) 
