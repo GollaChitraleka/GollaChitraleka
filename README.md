@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;Full+Stack+Developer;AI+%26+ML+Explorer;AI+Intern;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;Vice-Chair+Hackathon+Club+@+SR+University;Full+Stack+Developer;AI+%26+ML+Explorer;AI+Intern;" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me
@@ -15,7 +15,12 @@
 🔹 [Fact Finder AI](https://github.com/GollaChitraleka/FakeNews_Detection): Fake news detection using NLP and ML with 92% accuracy  
 🔹 [Student Result System](https://github.com/GollaChitraleka/Student-Result-Management-System): Automated 500+ records with Python & MySQL  
 
+## 🏆 Achievements
 
+- 🥇 Finalist in **SIH Hackathon Grand Finale**
+- 🧠 Winner of SRU Idea Conclave
+- 👨‍💻 Prized at GENZ Hackathon
+- 🏁 Zonal Finalists of Anveshan 2024
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chitraleka-golla-4751a427b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chitralekagolla2356@gmail.com) 
