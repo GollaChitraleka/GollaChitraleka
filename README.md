@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;ViceChair+Hackathon+Club+@+SR+University;Full+Stack+Developer;AI+%26+ML+Explorer;AI+Intern;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CS+Student+@+SR+University;ViceChair+Hackathon+Club;Full+Stack+Developer;AI+%26+ML+Explorer;AI+Intern;" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me
